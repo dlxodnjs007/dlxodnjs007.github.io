@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Freedom-site"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Freedom"
+name                     : "TaeWon"
 description              : "a Free-site"
 url                      : "https://dlxodnjs007.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"

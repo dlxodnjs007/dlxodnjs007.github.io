@@ -5,14 +5,33 @@ main:
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "CS"
-    url: /computer-science/
+    url: /cs/computer-science/
   - title: "Tech"
     url: /tech/
   - title: "Project"
     url: /project/
+  - title: "Language(not programming)"
+    url: /language/
+  - title: "About"
+    url: /about/
   #- title: "Sample Posts"
   #  url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+cs:
+  - title: Computer-Science
+    children:
+      - title: "Recent Posts"
+        url: /cs/computer-science/
+      - title: "DB"
+        url: /cs/db
+      - title: "Network"
+        url: /cs/network
+      - title: "Data Structure"
+        url: /cs/data-structure
+      - title: "Algorithm"
+        url: /cs/algorithm
+      

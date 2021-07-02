@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "markdown-tip"
+title: "markdown 활용tip - 줄바꾸기(line break)"
 ---
 line break를 하려면 
 
@@ -35,7 +35,10 @@ Hello
 World
 ```
 
-Hello  
+Hello
+
 World
 
 <hr style="border:3px solid gray">
+
+[참고 링크](https://gist.github.com/shaunlebron/746476e6e7a4d698b373)

@@ -1,0 +1,4 @@
+---
+permalink: /project/
+---
+project TEST

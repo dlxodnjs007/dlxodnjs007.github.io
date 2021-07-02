@@ -1,0 +1,4 @@
+---
+permalink: /language/
+---
+language test

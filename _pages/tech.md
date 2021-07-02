@@ -1,0 +1,4 @@
+---
+permalink: /tech/
+---
+TECH TEST
